@@ -1,5 +1,5 @@
 from gettext import install
-from turtle import title
+#from turtle import title
 import streamlit as st
 import random
 import altair as alt
