@@ -13,4 +13,4 @@ I divided Air Pollutants and Air Pollution Causes into two line charts. I also i
 
 Future Work:
 
-In the future, I might try to 
+In the future, I might try to add more selectbox functions so that the user can isolate exact years, air pollutants, and causes.
