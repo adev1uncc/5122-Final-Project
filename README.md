@@ -8,7 +8,7 @@ My code displays the average value of Air Pollutants and causes of Air Pollution
 
 Data/operation abstraction design:
 
-I divided Air Pollutants and Air Pollution Causes into two line charts. I also installed a selectbox that isolates a country so the user can pick the country to focus on their air pollution and causes.
+On the second page, I divided Air Pollutants and Air Pollution Causes into two line charts. I also installed a selectbox that isolates a country so the user can pick the country to focus on their air pollution and causes. The first line chart displays the average values of seven common types of Air Pollution from 1990 to 2018. These types of pollution include Carbon Monoxide, Ammonia(NH3), Nitrogen Oxides, Non-Methane Volatile Organic Compounds, Particulates Pm10 and Pm2.5, and Sulpher Oxides. You can isolate which pollutants you want to focus on on the line chart. The second line chart displays the average values of Causes of Air Pollution in the same circumstance as the first line chart. The causes include types of Combustion, Mobile Sources, Agriculture, etc.
 
 
 Future Work:
