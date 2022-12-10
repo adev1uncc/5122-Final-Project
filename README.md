@@ -14,3 +14,7 @@ On the second page, I divided Air Pollutants and Air Pollution Causes into two l
 Future Work:
 
 In the future, I might try to add more selectbox functions so that the user can isolate exact years, air pollutants, and causes.
+
+Citation:
+
+U.S. Department of the Interior. (n.d.). Where does air pollution come from? National Parks Service. Retrieved December 10, 2022, from https://www.nps.gov/subjects/air/sources.htm 
