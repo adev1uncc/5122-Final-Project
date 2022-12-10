@@ -11,5 +11,6 @@ Data/operation abstraction design:
 I divided Air Pollutants and Air Pollution Causes into two line charts. I also installed a selectbox that isolates a country so the user can pick the country to focus on their air pollution and causes.
 
 
-
 Future Work:
+
+In the future, I might try to 
