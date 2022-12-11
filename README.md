@@ -12,7 +12,7 @@ Data/operation abstraction design:
 
 The app is divided into two pages; an introduction and line chart page using a selectbox if else function.
 
-On the first page I inserted an image that displays air pollution causes and a dataframe of the dataset used in the app, along with some descriptions.
+On the first page I inserted an image that displays air pollution types and one the that displays causes. Also, a dataframe of the dataset used in the app, along with some descriptions.
 
 On the second page, I divided Air Pollutants and Air Pollution Causes into two line charts, using the px plotly function. I also installed a selectbox that isolates a country so the user can pick the country to focus on their air pollution and causes. The first line chart displays the average values of seven common types of Air Pollution from 1990 to 2018. These types of pollution include Carbon Monoxide, Ammonia(NH3), Nitrogen Oxides, Non-Methane Volatile Organic Compounds, Particulates Pm10 and Pm2.5, and Sulpher Oxides. The user can isolate which pollutants to focus on on the line chart and drag the cursor across a line to view the exact year and average value as it increases or decreases over time. The second line chart displays the average values of Causes of Air Pollution in the same circumstance as the first line chart. The causes include types of Combustion, Mobile Sources, Agriculture, etc.
 
