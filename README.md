@@ -27,3 +27,5 @@ Streamlit App:
 Citation:
 
 U.S. Department of the Interior. (n.d.). Where does air pollution come from? National Parks Service. Retrieved December 10, 2022, from https://www.nps.gov/subjects/air/sources.htm 
+
+Mackenzie, J., &amp; Turrentine, J. (2021, June 22). Air pollution: Everything you need to know. NRDC. Retrieved December 11, 2022, from https://www.nrdc.org/stories/air-pollution-everything-you-need-know 
