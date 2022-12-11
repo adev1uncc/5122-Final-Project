@@ -31,3 +31,5 @@ Citation:
 U.S. Department of the Interior. (n.d.). Where does air pollution come from? National Parks Service. Retrieved December 10, 2022, from https://www.nps.gov/subjects/air/sources.htm 
 
 Mackenzie, J., &amp; Turrentine, J. (2021, June 22). Air pollution: Everything you need to know. NRDC. Retrieved December 11, 2022, from https://www.nrdc.org/stories/air-pollution-everything-you-need-know 
+
+ResearchGate. (n.d.). There are four main types of air pollution sources including natural ... ResearchGate. Retrieved December 11, 2022, from https://www.researchgate.net/figure/There-are-four-main-types-of-air-pollution-sources-including-natural-area-stationary_fig1_342232814 
