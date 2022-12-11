@@ -18,7 +18,7 @@ The data can be found on Snowflake.
 
 Future Work:
 
-In the future, I might try to add more selectbox functions so that the user can isolate exact years, air pollutants, and causes. I also might try to install a map that responds to the year, air pollutant, and the cause.
+In the future, I might try to add more selectbox functions so that the user can isolate exact years, air pollutants, and causes. I could try to put in a bar chart function. I also might try to install a map that responds to the year, air pollutant, and the cause.
 
 Streamlit App:
 
