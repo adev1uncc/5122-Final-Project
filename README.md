@@ -1,6 +1,8 @@
 # Final
 Final 5122 Project
 
+Air Emissions Atlas
+
 Introduction:
 
 My code displays the average value of Air Pollutants and causes of Air Pollution from 1990 to 2018 for a number of countries. I would like the address the amount of air pollutation and the causes throughout the world. I wish to show how the numbers are affected with each variable in each country over the years.
