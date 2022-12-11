@@ -29,7 +29,7 @@ else:
     country = st.selectbox("Select a Country:",contlist)
 
 
-    st.write('This line chart displays the average values of seven common types of Air Pollution from 1990 to 2018. These types of pollution include Carbon Monoxide, Ammonia(NH3), Nitrogen Oxides, Non-Methane Volatile Organic Compounds, Particulates Pm10 and Pm2.5, and Sulpher Oxides. You can isolate which pollutants you want to focus on on the line chart.')
+    st.write('This line chart displays the average values of seven common types of Air Pollution from 1990 to 2018 in several countries. These types of pollution include Carbon Monoxide, Ammonia(NH3), Nitrogen Oxides, Non-Methane Volatile Organic Compounds, Particulates Pm10 and Pm2.5, and Sulpher Oxides. You can isolate which pollutants you want to focus on on the line chart.')
 
     df = air.groupby(['Date','Pollutant Name','Country Name'])['Value'].mean().reset_index(name='Value')
     df['Date'] = pd.DatetimeIndex(df['Date']).year
