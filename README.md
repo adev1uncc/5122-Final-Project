@@ -8,7 +8,7 @@ My code displays the average value of Air Pollutants and causes of Air Pollution
 
 Data/operation abstraction design:
 
-The app is divided into two pages; an introduction and line chart page.
+The app is divided into two pages; an introduction and line chart page using a selectbox if else function.
 
 On the first page I inserted an image that displays air pollution causes and a dataframe of the dataset used in the app, along with some descriptions.
 
