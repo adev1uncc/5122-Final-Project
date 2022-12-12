@@ -22,7 +22,7 @@ Future Work:
 
 In the future, I might try to add more selectbox functions so that the user can isolate exact years, air pollutants, and causes. I could try to put in a bar chart function along side the line charts. I also might try to install a map that responds to the year, air pollutant, and the cause.
 
-Streamlit App: https://adev1uncc-final-final-n1qc9n.streamlit.app/
+Streamlit App:
 
 Citations:
 
