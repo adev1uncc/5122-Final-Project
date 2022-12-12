@@ -5,7 +5,7 @@ Air Emissions Atlas
 
 Introduction:
 
-My code displays the average value of Air Pollutants and causes of Air Pollution from 1990 to 2018 for a number of countries. I would like the address the amount of air pollutation and the causes throughout the world. I wish to show how the numbers are affected with each variable in each country over the years. Air pollution is one of the many big problems in the world. There are number of causes of Air Pollution created by the human race and nature. Its the release of pollutants into the air, which are hazardous to human health and the planet. Most comes from energy use and production. Such as burning fossil fuels, which releases gases and chemicals into the air.
+My code displays the average value of Air Pollutants and causes of Air Pollution from 1990 to 2018 for a number of countries. I would like the address the amount of air pollutation and the causes throughout the world. I wish to show how the numbers are affected with each variable in each country over the years. Air pollution is one of the many big problems in the world. There are number of causes of Air Pollution created by the human race and nature. Its the release of pollutants into the air, which are hazardous to human health and the planet. Most comes from energy use and production, as shown in the app. Such as burning fossil fuels, which releases gases and chemicals into the air.
 
 
 Data/operation abstraction design:
