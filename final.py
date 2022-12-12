@@ -15,7 +15,7 @@ page = st.sidebar.selectbox('Select a page',
 
 
 if page == 'Introduction':
-    st.write('Air pollution is one of the many big problems in the world. There are number of types and causes of Air Pollution created by the human race and by nature as shown in the images below. Its the release of pollutants into the air, which are hazardous to human health and the planet. The majotity of air pollution comes from energy use and production. Such as burning fossil fuels, which releases gases and chemicals into the air. To take a look at the average value of air pollutants and the causes, go to the next page.')
+    st.write('Air pollution is one of the many big problems in the world. There are number of types and causes of Air Pollution created by the human race and by nature as shown in the images below. Its the release of pollutants into the air, which are hazardous to human health and the planet. The majority of air pollution comes from energy use and production. Such as burning fossil fuels, which releases gases and chemicals into the air. To take a look at the average value of air pollutants and the causes, go to the next page.')
     st.write('These are some of the types of air pollutants displayed on the naxt page.')
     st.image("There-are-four-main-types-of-air-pollution-sources-including-natural-area-stationary.png")
     st.write('These are some of the causes of air pollutants displayed on the naxt page.')
